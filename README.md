@@ -1,6 +1,8 @@
 ## Overview
 This project is a simple yet advanced To-Do List web application that allows users to create, manage, and organize tasks. Users can add tasks with due dates, mark tasks as completed, delete tasks, and even drag-and-drop tasks to reorder them. All task data is stored in the browser using `localStorage`, ensuring that data persists across page reloads.
 
+---
+
 ## Features
 - **Add Tasks**: Users can input a task name and a due date, and the task will be added to the list.
 - **Mark as Completed**: Users can click on the task text to toggle its completion status, which will strike through the text.
@@ -9,16 +11,29 @@ This project is a simple yet advanced To-Do List web application that allows use
 - **Persistent Storage**: Tasks are stored in the browser's `localStorage`, ensuring data is saved even after the page is reloaded.
 - **Edit tasks** in place
 
+---
+
 ### 🌗 Theme Support
 - Toggle between **Light Mode** and **Dark Mode**
 
+---
+
 ### 🗂️ Task Categories
 - Assign tasks to custom categories for better organization
+
+---
+
+## 🔗 Live Link
+- https://pallabsamanta.github.io/todo-list/
+
+---
 
 ## Technologies Used
 - **HTML**: For the structure of the web page.
 - **CSS**: For styling and layout of the application.
 - **JavaScript**: For functionality such as adding tasks, marking tasks as completed, deleting tasks, and handling drag-and-drop interactions.
+
+---
 
 ## Project Structure
 - **index.html**: The main HTML file that contains the structure of the to-do list.
